@@ -1,0 +1,19 @@
+[cloudshell-user@ip-10-0-100-247 ~]$ git clone https://github.com/aws-samples/amazon-ecs-cli-sample-app.git demo-app
+
+###Output
+
+Cloning into 'demo-app'...
+remote: Enumerating objects: 12, done.
+remote: Counting objects: 100% (12/12), done.
+remote: Compressing objects: 100% (12/12), done.
+remote: Total 12 (delta 1), reused 5 (delta 0), pack-reused 0
+Receiving objects: 100% (12/12), 5.39 KiB | 5.39 MiB/s, done.
+Resolving deltas: 100% (1/1), done.
+[cloudshell-user@ip-10-0-100-247 ~]$ copilot init
+Note: It's best to run this command in the root of your Git repository.
+Welcome to the Copilot CLI! We're going to walk you through some questions
+to help you get set up with a containerized application on AWS. An application is a collection of
+containerized services that operate together.
+
+
+  What would you like to name your application? [? for help]
